@@ -5334,7 +5334,8 @@ Note: The First 10 Decimal Places of Pi Are: 3.1415926535<BR><BR>
 Step #01: Square Root of 2 Divided By 9801 OR &#8730; 2 / 9801 = 0.0002885856 OR Reverse: 3,465.176781200009 * 1103 / 1 = 0.3183099168 OR Reverse: 3,822,089.98966361<BR>
 Step #02: 9801 Divided By 2206 * Square Root of 2 OR 9801 / 2206 * &#8730; 2 = 3.141592730020181<BR>
 Step #03: Disregard the rest of the decimal places starting after 3.141592 where the decimal places are: 730020181<BR>
-Step #04: Re-Calculate and Re-Solve this specific algorithm with a new Summation Incremented by 1 to get the next decimal places of Pi<BR><BR>
+Step #04: Re-Calculate and Re-Solve this specific algorithm with a new Summation Incremented by 1 to get the next decimal place of Pi<BR>
+Step #05: Continue on calculating this over and over again infinitely where each new time you solve and calculate this Mathematical Algorithm you replace the <B><I>k</I></B> variable with 1 higher number than the last to get the infinitely long decimal places of Pi. Memorize each new decimal to add to your memory. As you calculate the new decimal places you can memorize hundreds to thousands to hundreds of thousands of decimal places of Pi.<BR><BR>
 
 <A HREF=\"./Theme/2023_Lightning_Calculate/Image/Lightning_Calculate/Ramanujan-Pi-1914.png?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" TITLE=\":: Digitization of the Ramanujan-1914 Mathematical Algorithm For Deriving Pi ::\" TARGET=\"_NEW\"><IMG SRC=\"./Theme/2023_Lightning_Calculate/Image/Lightning_Calculate/Ramanujan-Pi-1914.png?$_GLOBAL_SYSTEM_SECURITY_CACHE_CIRCUMVENTION_IMAGE_RANDOM_STRING_GENERATION\" TITLE=\":: Digitization of the Ramanujan-1914 Mathematical Algorithm For Deriving Pi ::\" CLASS=\"MemberProfile\" WIDTH=\"50%\" HEIGHT=\"100\"></A></IMG><BR><BR>
 Note: The First 10 Decimal Places of Pi Are: 3.1415926535<BR><BR>
